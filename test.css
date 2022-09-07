@@ -1,0 +1,243 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+header{
+	background-image:url(chat.jpg); 
+	height:100vh;
+	width:206vh;
+	background-size: cover;
+	background-position: center;  
+}
+.uk{
+	margin-left: 95vh;
+	margin-top:2vh
+}
+h2{
+	margin-left: 10vh;
+	margin-top: 25vh;
+	color:black;
+	font-size: 7vh;
+	font-weight:bold;
+	font-stretch: ultra-condensed;
+	font-variant-east-asian: simplified;
+}
+h2:hover{
+	margin-left: 10vh;
+	margin-top: 25vh;
+	color:#f0f0f0;
+	font-size: 7vh;
+	font-weight:initial;
+	font-stretch: ultra-condensed;
+	font-variant-east-asian: simplified;
+}
+.ig{
+	list-style: none;
+	background-color:#0ed145;
+	height: 7vh;
+	width: 16vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 3vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 8.6vh;
+    color: black;
+    font-size: 13PX;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+	margin-top: -4.5vh;	
+
+
+}
+.ig:hover{
+	list-style: none;
+	background-color:#ffca18;
+	height: 7vh;
+	width: 22vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 5vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 12.4vh;
+    color: black;
+
+}
+.fb{
+	list-style: none;
+	background-color:#0ed145;
+	height: 7vh;
+	width: 16vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 3vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 8.6vh;
+    color: black;
+    font-size: 13PX;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+	margin-top: -23.1vh
+
+}
+.fb:hover{
+	list-style: none;
+	background-color:#ffca18;
+	height: 7vh;
+	width: 21vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 5vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 11.4vh;
+    color: black;
+
+}
+.wa{
+	list-style: none;
+	background-color:#0ed145;
+	height: 7vh;
+	width: 16vh;
+	text-align: center;
+	font-family: cursive;
+    font-size: 3vh;
+    border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 8.6vh;
+    color: black;
+    font-size: 13PX;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+}
+.wa:hover{
+	list-style: none;
+	background-color:#ffca18;
+	height: 7vh;
+	width: 22vh;
+	text-align: center;
+	font-family: cursive;
+    font-size: 5vh;
+    border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 12.4vh;
+    color: black;
+}
+.tw{
+	list-style: none;
+	background-color:#0ed145;
+	height: 7vh;
+	width: 16vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 3vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 8.6vh;
+    color: black;
+    list-style-type:none;
+    text-decoration: none;
+	color: #ffd;
+	font-size: 13PX;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+	margin-top: -13vh
+}
+.tw:hover{
+	list-style: none;
+	background-color:#ffca18;
+	height: 7vh;
+	width: 16vh;
+	text-align: center;
+	font-family: cursive;
+	font-size: 5vh;
+	border:1px solid white;
+    line-height: 50px;
+    float: left;
+    margin-left: 12.4vh;
+    color: black;
+
+}
+.oo{
+	list-style: none;
+	background-color:rgb(42,62,94);
+	color: #fff;
+	height: 9vh;
+	width:29vh;
+	text-align: center;
+	font-family: serif;
+	margin-top: 3vh;
+	margin-left: -66vh;
+	font-size: 4vh;
+	border: 2px solid white;
+	cursor: default;
+}
+.oo:hover{
+	list-style: none;
+	background-color:yellow;
+	height:10vh;
+	width:29vh;
+	border: 1px solid black;	
+	font-family: fantasy;
+	color: #041aaa;
+	transition: 1s all ease-out;
+	cursor: progress;
+}
+.uk ul ul{
+display: none;
+transition: 0.5s all ease-in;
+}
+.uk ul li:hover > ul{
+	display: block;
+	transition: 0.5s all ease-in;
+}
+.kit{
+	background-color: #347b5d;
+	height: 69vh;
+	width: 80vh;
+	margin-left: 70vh;
+}
+.kit:hover{
+	background-color: #134a33;
+	height: 69vh;
+	width: 80vh;
+	margin-left: 70vh;
+}
+img{
+	margin-top: -7vh;
+	margin-left: -71vh;
+	height: 45vh;
+}
+.close{
+border: transparent #da2e03;
+margin-left: 12px;
+}
+.close:hover{
+border: solid #da2e03;
+margin-left: 2px;
+transition: 0.2s all ease-out;
+background-color: #470b48; 
+}
+p{
+	margin-left: -88vh;
+	font-size: 11vh;
+	margin-top: -15vh;
+}
+
+
+
+
+
+
+
+

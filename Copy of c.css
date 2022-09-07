@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@3008family=Raleway:wght@100;8008display=swap");
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+header{ 
+	background-size: cover;
+	background-position: center;  
+}
+#main{
+	stop-color: rgb(42,62,94);
+	background: rgba(42,62,94);
+	width: 215.1vh;
+	height: 50px;
+	background-size: cover
+	background: center;
+}
+#main .logo{
+	float: left;
+}
+	
+#main nav ul {
+	float: right;
+	margin-right: -12px;
+	margin-top: -20px;
+}
+#main nav ul li {
+	list-style-type:none;
+	margin-left: 170px;
+	margin-top: -50px;
+	display: inline-block;
+	margin-right:0. 8 px;
+	line-height:10px;
+	box-shadow: #ff5;
+}
+#main nav ul li a  {
+	text-decoration: none;
+	color: #ffd;
+	font-size: 13PX;
+	font-style: #fad;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+	font-family: "Quicksand" ,sans-serif; 
+}
+#main nav ul li a .active,
+#main nav ul li a:hover {
+	background:#fd4a47;
+	color: #fff;
+	transition: 0.4s all ease-out; 
+}
+#main div nav ul  {
+	margin-left: 10px;
+	line-height: 80px;
+	float: left;
+}
+.Text{
+	transform: translate(-50%,-50%);
+	position: absolute;
+	top: 50%;
+	left: 20%;
+}
+.text{
+
+	color: #ffd;
+	font-size: 31px;
+	text-align: center;
+	margin-top: 120px;
+	margin-left: 100px;
+}
+.text span{
+	width: 4px;
+	height: 9px;
+	background: #fd4a47;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	top: 5%;
+	left:-15%; 
+	text-align: center;
+}
+.Text p {
+	font-size: 3px;
+	line-height: 6px;
+	letter-spacing: 2px;
+	color:#ffd;
+	font-family: "Quicksand" , sans-serif; 
+	text-align: center;
+}
+.text .btn {
+	width: 230px;
+	height: 55px;
+	border: none;
+	background: #fd4a47;
+	color: #fff;
+	transition: 0.5% all ease-out;
+	margin-top: 40px;
+	text-align: center;
+}
+input{
+	font-size: 26px;
+	text-shadow: #fff;
+
+
+}
+.text .btn:hover{
+	background: transparent;;
+	border: 1px solid #fff;
+	transition:0.5s all ease-out;
+	text-align: center;
+	flex-direction: column;
+}
+h1{
+	color: yellow;
+
+}
+ins{
+	margin-top: 8px;
+	margin-left: 1000px;
+	width: 1vh;
+	height: 2vh;
+	background-position: center; 
+	background-size: cover;
+
+}
+fieldset{
+	align-items: center;
+	height: 52vh;
+	width: 100vh;
+	margin-left: 28vh;
+	margin-top: -42vh;
+	stroke: red;
+	margin-bottom: 12vh;
+	color: black;
+	size: 10vh;
+	font-size: 2vh;
+}
+h2{
+	color:black;
+
+}
+h4 .facebook:{
+	color: orange;
+}''

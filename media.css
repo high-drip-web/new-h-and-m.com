@@ -1,0 +1,152 @@
+h4{
+	text-align: center;
+	font-size:5vh;
+	margin-top: 14vh;
+	border-style: double;
+	width: 90vh;
+	margin-left: 64vh;
+}
+#main{
+	stop-color: rgb(42,62,94);
+	background: rgba(42,62,94);
+	width: 207.9vh;
+	height: 60px;
+	background-size: cover
+	background: center;
+	margin-top: -29.8vh;
+	margin-left: -2vh;
+}
+#main nav ul li {
+	list-style-type:none;
+	margin-left: 100px;
+	margin-top: 30px;
+	display: inline-table;
+	margin-right:0. 8px;
+	line-height:5px;
+
+}	
+#main nav ul li a  {
+	text-decoration: none;
+	color: #ffd;
+	font-size: 15PX;
+	font-style: #fad;
+	padding: 12px 13px;
+	transition: 0.5s all ease-out;
+	font-family: "Quicksand" ,sans-serif; 
+}
+#main nav ul li a .active,
+#main nav ul li a:hover {
+	background:#fd4a47;
+	color: #fff;
+	transition: 0.4s all ease-out; 
+}
+li a  {
+	text-decoration: none;
+	color: #ffd;
+	font-size: 13PX;
+	font-style: #fad;
+	padding: 9px 13px;
+	transition: 0.5s all ease-out;
+	font-family: "Quicksand" ,sans-serif; 
+}
+ li a .active,
+ li a:hover {
+	background:#fd4a47;
+	color: #fff;
+	transition: 0.4s all ease-out; 
+	font-size: 2vh;
+}
+h5{
+	margin-top: -19vh;
+	margin-left: 69vh;
+	font-size: 2vh
+}
+ins ul li a{
+	background: black;
+	list-style-type:none;
+	margin-left: 100px;
+	margin-top: 18vh;
+	display: inline-table;
+	margin-right:0. 8px;
+	line-height:5px;
+}
+ins ul li a{
+	text-decoration: none;
+	color: #ffd;
+	font-size: 6vh;
+	margin-left: 160vh;
+	font-style: #fad;
+	padding: 22px 10px;
+	font-family: "Quicksand" ,sans-serif; 
+}
+ins ul li a .active;
+ins ul li a :hover{
+	background:#fd4a47;
+	color: #fff;
+	transition: 0.4s all ease-out; 
+	font-size: 2vh;
+
+}
+.png{
+	margin-left: 50vh;
+	border:dotted;
+	color: black;
+	background-color: blue;
+	font-size: vh
+}
+img{
+	margin-top: 11vh;
+	height: 14vh;
+	margin-left: 54vh;
+}
+.fb{
+	size: 6vh;
+	font-size: 6vh;
+	margin-left: 80vh;
+	margin-top: -129vh;
+	color:#fffd;
+	background-color: rgba(1,23,3)
+	;width: 127vh;
+}
+.yt{
+	margin-left: 80vh;
+	margin-top: 23vh;
+	font-size: 6vh;
+    color:#fffd;
+    background-color: rgba(1,23,3);
+    width: 127vh;
+}
+.ig{
+	margin-left: 80vh;
+	margin-top: 25vh;
+	font-size: 6vh;
+    color:#fffd;
+    background-color: rgba(1,23,3);
+    width: 127vh;
+}
+.twit{
+	margin-left: 80vh;
+	margin-top: 23vh;
+	font-size: 6vh;
+    color:#fffd;
+    background-color: rgba(1,23,3);
+    width: 127vh;
+}
+.tsap{
+	margin-left: 80vh;
+	font-size: 6vh;
+	margin-top: 23vh;
+	color:#fffd;
+	background-color: rgba(1,23,3);
+	width: 127vh;
+}
+.icon{
+	margin-left: -60vh;
+	height: 26vh
+
+}
+.active{
+	border:double;
+	height: 2px;
+	width: 1px
+}
