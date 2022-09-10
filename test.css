@@ -221,12 +221,14 @@ img{
 .close{
 border: transparent #da2e03;
 margin-left: 12px;
+font-size:2px;
 }
 .close:hover{
 border: solid #da2e03;
 margin-left: 2px;
 transition: 0.2s all ease-out;
-background-color: #470b48; 
+background-color: #470b48;
+font-size:3px;	
 }
 p{
 	margin-left: -88vh;
