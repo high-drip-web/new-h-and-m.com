@@ -220,15 +220,15 @@ img{
 }
 .close{
 border: transparent #da2e03;
-margin-left: 12px;
-font-size:2px;
+margin-left: 15px;
+font-size:9px;
 }
 .close:hover{
 border: solid #da2e03;
-margin-left: 2px;
+margin-left: 10px;
 transition: 0.2s all ease-out;
 background-color: #470b48;
-font-size:3px;	
+font-size:10px;	
 }
 p{
 	margin-left: -88vh;
