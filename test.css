@@ -219,11 +219,6 @@ img{
 	height: 45vh;
 }
 .close{
-border: transparent #da2e03;
-margin-left: 15px;
-font-size:9px;
-}
-.close:hover{
 border: solid #da2e03;
 margin-left: 10px;
 transition: 0.2s all ease-out;
