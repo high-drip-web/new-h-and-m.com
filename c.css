@@ -18,7 +18,7 @@ header{
 #main{
 	stop-color: rgb(42,62,94);
 	background: rgba(42,62,94);
-	width: 206vh;
+	width: 202vh;
 	height: 50px;
 	background-size: cover
 	background: center;
@@ -132,9 +132,9 @@ ins{
 	}
 ins img{
 	margin-left: -360vh;
-	height: 606.7px;
-	width: 470px;
-	margin-top: -1vh;
+	height: 607.7px;
+	width: 480px;
+	margin-top: 1vh;
 }
 code{
 	font-size: 2.5vh;
