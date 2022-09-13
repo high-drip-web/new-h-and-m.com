@@ -18,20 +18,20 @@ header{
 #main{
 	stop-color: rgb(42,62,94);
 	background: rgba(42,62,94);
-	width: 202vh;
-	height: 50px;
+	width: 200vh;
+	height: 80px;
 	background-size: cover
 	background: center;
 }
 #main nav ul {
 	float: right;
 	margin-right: -62px;
-	margin-top: -72px;
+	margin-top: 9px;
 }
 #main nav ul li {
 	list-style-type:none;
 	margin-left: 200px;
-	margin-top: -0px;
+	margin-top: 9px;
 	display: inline-block;
 	margin-right:0. 8 px;
 	line-height:10px;
