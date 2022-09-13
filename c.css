@@ -18,9 +18,9 @@ header{
 #main{
 	stop-color: rgb(42,62,94);
 	background: rgba(42,62,94);
-	width: 207vh;
+	width: 215.1vh;
 	height: 50px;
-	background-size: cover
+	background-size: cover;
 	background: center;
 }
 #main nav ul {
