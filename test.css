@@ -17,18 +17,9 @@ header{
 h2{
 	margin-left: 10vh;
 	margin-top: 25vh;
-	color:black;
+	color:white;
 	font-size: 7vh;
 	font-weight:bold;
-	font-stretch: ultra-condensed;
-	font-variant-east-asian: simplified;
-}
-h2:hover{
-	margin-left: 10vh;
-	margin-top: 25vh;
-	color:#f0f0f0;
-	font-size: 7vh;
-	font-weight:initial;
 	font-stretch: ultra-condensed;
 	font-variant-east-asian: simplified;
 }
@@ -220,7 +211,15 @@ img{
 }
 .close{
 border: solid #da2e03;
-margin-left: 10px;
+margin-left: 19px;
+transition: 0.2s all ease-out;
+background-color: #white;
+font-size:8px;
+}
+.close:hover
+{
+border: solid #da2e03;
+margin-left: 19px;
 transition: 0.2s all ease-out;
 background-color: #470b48;
 font-size:10px;	
