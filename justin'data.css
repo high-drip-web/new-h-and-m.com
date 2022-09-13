@@ -15,16 +15,15 @@ h6{
 	align-items: justify;
 }
 h5{
-	margin-left: 90vh;
+	margin-left: 110vh;
 	font-size: 4vh;
 	color: white;
-	border: dotted;
 	height: 7vh;
 	width: 62vh;
 }
 fieldset{
 	height: 65vh;
-	width: 124vh;
+	width: 94vh;
 	margin-left: 80vh;
 	margin-top: -75vh;
 }
@@ -69,8 +68,8 @@ p{
 img{
 	height: 575px;
 	width: 50vh
-	margin-top: 15vh;
+	margin-top: 19vh;
 	border: dotted;
-	margin-left: 4vh 
+	margin-left: 9vh 
 }
 
