@@ -26,12 +26,12 @@ header{
 #main nav ul {
 	float: right;
 	margin-right: -62px;
-	margin-top: 9px;
+	margin-top: -1px;
 }
 #main nav ul li {
 	list-style-type:none;
 	margin-left: 200px;
-	margin-top: 9px;
+	margin-top: -1px;
 	display: inline-block;
 	margin-right:0. 8 px;
 	line-height:10px;
