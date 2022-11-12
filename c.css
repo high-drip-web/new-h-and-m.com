@@ -18,7 +18,7 @@ header{
 #main{
 	stop-color: rgb(42,62,94);
 	background: rgba(42,62,94);
-	width: 215.1vh;
+	width: 206vh;
 	height: 50px;
 	background-size: cover;
 	background: center;
@@ -26,12 +26,12 @@ header{
 #main nav ul {
 	float: right;
 	margin-right: -62px;
-	margin-top: -1px;
+	margin-top: -72px;
 }
 #main nav ul li {
 	list-style-type:none;
 	margin-left: 200px;
-	margin-top: -1px;
+	margin-top: -0px;
 	display: inline-block;
 	margin-right:0. 8 px;
 	line-height:10px;
@@ -132,9 +132,9 @@ ins{
 	}
 ins img{
 	margin-left: -360vh;
-	height: 607.7px;
-	width: 480px;
-	margin-top: 1vh;
+	height: 606.7px;
+	width: 470px;
+	margin-top: -1vh;
 }
 code{
 	font-size: 2.5vh;
