@@ -15,16 +15,18 @@ h6{
 	align-items: justify;
 }
 h5{
-	margin-left: 110vh;
-	font-size: 4vh;
+	margin-left: 87;
+	font-size: 5vh;
 	color: white;
-	height: 7vh;
+	border-bottom:1px solid blue;
+	height: 6vh;
 	width: 62vh;
 }
 fieldset{
 	height: 65vh;
-	width: 94vh;
-	margin-left: 80vh;
+	text-align:center;
+	width: 10vh;
+	margin-left: 78vh;
 	margin-top: -75vh;
 }
 h2{
@@ -66,10 +68,6 @@ p{
 	color: #4dab;
 }
 img{
-	height: 575px;
-	width: 50vh;
-	margin-top: 19vh;
-	border: dotted;
-	margin-left: 9vh 
-}
-
+	height: 574px;
+	width: 48.5vh;
+	margin-top: 16vh;
