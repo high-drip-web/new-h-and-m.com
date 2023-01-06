@@ -43,7 +43,8 @@ header{
 	font-size: 18PX;
 	font-style: #fad;
 	padding: 9px 13px;
-	background-color:black;
+	border-radius: 5px;
+	background-color: black;
 	transition: 0.5s all ease-out;
 	font-family: "Quicksand" ,sans-serif; 
 }
