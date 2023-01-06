@@ -113,6 +113,8 @@ input{
 	transition:0.5s all ease-out;
 	text-align: center;
 	flex-direction: column;
+	background-color:#f3f3f3;
+	font-weight:bold;
 }
 h1{
 	color: yellow;
