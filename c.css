@@ -39,10 +39,11 @@ header{
 }
 #main nav ul li a  {
 	text-decoration: none;
-	color: #ffd;
+	color: #fff;
 	font-size: 18PX;
 	font-style: #fad;
 	padding: 9px 13px;
+	background-color:black;
 	transition: 0.5s all ease-out;
 	font-family: "Quicksand" ,sans-serif; 
 }
