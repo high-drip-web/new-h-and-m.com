@@ -9,15 +9,15 @@ html,body{
 	height: 90px;
 }
 header{
-	background-image:url(mnj.jpg); 
+	background-image:url(fire.gif); 
 	height:100vh;
 	width:206vh;
 	background-size: cover;
 	background-position: center;  
 }
 #main{
-	stop-color: rgb(42,62,94);
-	background: rgba(42,62,94);
+	stop-color: gray;
+	background: gray;
 	width: 206vh;
 	height: 50px;
 	background-size: cover;
